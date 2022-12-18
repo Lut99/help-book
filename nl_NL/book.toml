@@ -1,0 +1,10 @@
+[book]
+authors = ["Lut99"]
+language = "nl"
+multilingual = false
+src = "src"
+title = "Eerste Hulp Bij Computers"
+github = "https://github.com/Lut99/help-book"
+
+[output.html]
+default-theme = "light"
